@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43c2f51-3955-4e82-ac73-b92cac8633a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/socketcl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socketsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EM过程.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WOE&amp;IV.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lxfs.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pima-indians-diabetes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prophet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python试验田.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/测试数据处理.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class装饰器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -87,11 +94,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="164" />
-    <option name="y" value="56" />
-    <option name="width" value="1233" />
-    <option name="height" value="785" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="108" />
+    <option name="y" value="51" />
+    <option name="width" value="1289" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,10 +130,10 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -329,6 +336,7 @@
       <workItem from="1558404147638" duration="816000" />
       <workItem from="1558426713800" duration="692000" />
       <workItem from="1558608639742" duration="705000" />
+      <workItem from="1558929242901" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="点点滴滴、">
       <created>1558401988356</created>
@@ -341,12 +349,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7600000" />
+    <option name="totallyTimeSpent" value="8226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="56" width="1233" height="785" extended-state="0" />
+    <frame x="108" y="51" width="1289" height="790" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30646515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29751402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -360,7 +369,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2890411" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.28653294" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -464,10 +473,30 @@
     <entry file="file://$PROJECT_DIR$/myapp.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试数据处理.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prophet.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EM过程.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pima-indians-diabetes.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/class装饰器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
