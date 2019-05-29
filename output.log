@@ -1,0 +1,16 @@
+2019/05/29 14:30:50 - __main__ - INFO - 9 - log - This is a log info
+2019/05/29 14:30:50 - __main__ - DEBUG - 10 - log - Debugging
+2019/05/29 14:30:50 - __main__ - WARNING - 11 - log - Warning exists
+2019/05/29 14:30:50 - __main__ - INFO - 12 - log - Finish
+2019/05/29 14:34:56 - __main__ - INFO - 9 - log - This is a log info
+2019/05/29 14:34:56 - __main__ - WARNING - 11 - log - Warning exists
+2019/05/29 14:34:56 - __main__ - INFO - 12 - log - Finish
+2019/05/29 14:35:58 - __main__ - INFO - 9 - log - This is a log info
+2019/05/29 14:35:58 - __main__ - WARNING - 11 - log - Warning exists
+2019/05/29 14:35:58 - __main__ - INFO - 12 - log - Finish
+2019/05/29 14:35:58 - __main__ - CRITICAL - 13 - log - crtical something
+2019/05/29 14:43:02 - __main__ - INFO - 9 - log - This is a log info
+2019/05/29 14:43:02 - __main__ - WARNING - 11 - log - Warning exists
+2019/05/29 14:43:02 - __main__ - INFO - 12 - log - Finish
+2019/05/29 14:43:02 - __main__ - CRITICAL - 13 - log - crtical something
+2019/05/29 14:43:02 - __main__ - WARNING - 14 - log - huangchuang

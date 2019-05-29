@@ -1,11 +1,44 @@
 import logging
+import logging.config
+import log_config
+def get_logger(name='detection.online'):
+    """
+    获取logger
+    :param name:
+    :return:
+    """
+    logging.config.dictConfig(log_config.LOGGING_DIC)
+    return logging.getLogger(name)
 
-logging.basicConfig(level=logging.DEBUG,
-                    format='%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s',
-                    datefmt='%a, %d %b %Y %H:%M:%S',
-                    filename='myapp.log',
-                    filemode='w')
 
-logging.debug('This is debug message')
-logging.info('This is info message')
-logging.warning('This is warning message')
+logger=get_logger()
+
+
+for i in range(10000):
+    msg=i
+    logger.warn(i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# logging.basicConfig(level=logging.INFO,
+#                     filename='output.log',
+#                     datefmt='%Y/%m/%d %H:%M:%S',
+#                     format='%(asctime)s - %(name)s - %(levelname)s - %(lineno)d - %(module)s - %(message)s')
+# logger = logging.getLogger(__name__)
+#
+# logger.info('This is a log info')
+# logger.debug('Debugging')
+# logger.warning('Warning exists')
+# logger.info('Finish')
+# logger.critical('crtical something')
