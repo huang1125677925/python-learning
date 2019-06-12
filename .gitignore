@@ -7,5 +7,6 @@
 *.iml
 out
 gen
-.ipynb_checkpoints/
-route_leran/
+
+
+/route_leran/
