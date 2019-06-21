@@ -1,0 +1,4 @@
+2019-06-21 15:27:48,094 - simpleExample - ERROR - error message
+2019-06-21 15:27:48,094 - simpleExample - CRITICAL - critical message
+2019-06-21 15:31:32,094 - root - ERROR - error message
+2019-06-21 15:31:32,094 - root - CRITICAL - critical message
