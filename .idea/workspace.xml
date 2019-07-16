@@ -2,13 +2,303 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43c2f51-3955-4e82-ac73-b92cac8633a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/abnormal_roc_curve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interval_time_abnormal_influence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logsys/20190621setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logsys/log20190621.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logsys/logging.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/LCA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/avl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/binary_tree/AVL_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/binary_tree/binary_search_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/binary_tree/fenwick_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/binary_tree/lazy_segment_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/binary_tree/segment_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/binary_tree/treap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/hashing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/hashing/double_hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/hashing/hash_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/hashing/hash_table_with_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/hashing/number_theory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/hashing/number_theory/prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/hashing/quadratic_probing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/heap/heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/linked_list/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/linked_list/doubly_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/linked_list/is_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/linked_list/singly_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/linked_list/swapNodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/queue/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/queue/double_ended_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/queue/queue_on_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/queue/queue_on_pseudo_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/balanced_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/infix_to_postfix_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/infix_to_prefix_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/next.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/postfix_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/stacks/stock_span_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/trie/trie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/union_find/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/union_find/tests_union_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structures/union_find/union_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide_and_conquer/closest_pair_of_points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide_and_conquer/max_sub_array_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide_and_conquer/max_subarray_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/Fractional_Knapsack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/abbreviation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/bitmask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/coin_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/edit_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/fast_fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/floyd_warshall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/integer_partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/k_means_clustering_tensorflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/knapsack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/longest_common_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence_O(nlogn).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/longest_sub_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/matrix_chain_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/max_sub_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/minimum_partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/rod_cutting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/subset_generation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic_programming/sum_of_subset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/Directed_and_Undirected_(Weighted)_Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/Eulerian_path_and_circuit_for_undirected_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/a_star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/articulation_points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/basic_graphs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bellman_ford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/bfs_shortest_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/breadth_first_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/check_bipartite_graph_bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/check_bipartite_graph_dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/depth_first_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dijkstra_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/dijkstra_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/edmonds_karp_multiple_source_and_sink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/even_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/finding_bridges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/floyd_warshall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/graph_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/graph_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/kahns_algorithm_long.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/kahns_algorithm_topo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/minimum_spanning_tree_kruskal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/minimum_spanning_tree_prims.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/multi_hueristic_astar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/page_rank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/prim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/scc_kosaraju.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/tarjans_scc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/协程与进程和线程/pythonThread/ThreadPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/协程与进程和线程/pythonThread/ThreadQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/协程与进程和线程/pythonThread/queueUse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/协程与进程和线程/pythonThread/同步.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/容器/Counts_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/容器/双端队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理第三方库/聚合分组.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习算法/LSTM1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习算法/fpgrowth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习算法/lstm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习算法/未命名.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/消息读写/abnormal_module_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/消息读写/predict_aiops/mongo_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/消息读写/predict_aiops/mysqlread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/消息读写/predict_aiops/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/快排实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/编码规范/编码规范.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/__str__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/doctest学习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/python自省.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/类变量与实例变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/类方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面向对象/静态方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/**kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础知识/**kwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/*arg.py" beforeDir="false" afterPath="$PROJECT_DIR$/基础知识/*arg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/*arg.py.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/redis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1863_prophet_model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8schools.stan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2NOH4HN52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSC_3360-2_gaitubao_com_.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EM过程.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG_5988.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM时序数据检测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/LSTM时序数据检测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mongodb读取与存储,更新，查找，删除.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/消息读写/Mongodb读取与存储,更新，查找，删除.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WOE&amp;IV.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abnormal_roc_curve.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiops_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/装饰器/aiops_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-passengers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/airline-passengers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aroma.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/aroma.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar-animation-delay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/Python高手之路.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/《概率论与数理统计》浙大版（第四版）教材.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/数理统计与数据分析原书第3版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/编写高质量代码 改善Python程序的91个建议.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/装饰器/class装饰器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/容器/deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/echart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbprophet测试.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/fbprophet测试.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest/test9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/test1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test17.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test20.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test21.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test22.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test24.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test25.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test26.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test27.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test28.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test29.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fbtest1/test9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/logsys/handle1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idtimelong.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interval_time_abnormal_influence.py" beforeDir="false" afterPath="$PROJECT_DIR$/logsys/interval_time_abnormal_influence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerasCNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/kerasCNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras全链接层.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/keras全链接层.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keras回归.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/keras回归.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log-handle.py" beforeDir="false" afterPath="$PROJECT_DIR$/logsys/log-handle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/logsys/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/logsys/log_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_traceback.py" beforeDir="false" afterPath="$PROJECT_DIR$/logsys/log_traceback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lstm多指标预测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/lstm多指标预测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxfs.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongo_read.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/消息读写/mongo_read.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb61.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oneclasssvm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/oneclasssvm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospath.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/基础知识/ospath.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas shift practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理第三方库/pandas shift practice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据处理第三方库/pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pima-indians-diabetes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pollution.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prophet.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python ssh 实现代码.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/通信/python ssh 实现代码.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-kafka消费者.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/消息读写/python-kafka消费者.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-kafka生产者.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/消息读写/python-kafka生产者.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonenummerate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python分布式.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/分布式/python分布式.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python分布式2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/分布式/python分布式2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python多线程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/python多线程.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python字典默认设置.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/基础知识/python字典默认设置.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python试验田.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/消息读写/redis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis1.py" beforeDir="false" afterPath="$PROJECT_DIR$/消息读写/redis1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/route_leran/learn_route.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sex_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/socketcl.py" beforeDir="false" afterPath="$PROJECT_DIR$/通信/socketcl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socketsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/通信/socketsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stan测试.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testtime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$190324982211.doc" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/~$190324982211.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/两台主机传输文件.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/通信/两台主机传输文件.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/列表转字典.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/基础知识/列表转字典.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/协程/httprquest.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/httprquest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/协程/多进程测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/多进程测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/协程/多进程，协程，单进程对比.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/多进程，协程，单进程对比.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/协程/定义一个协程.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/定义一个协程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/增加预测及区间.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/机器学习算法/增加预测及区间.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多进程online.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/多进程online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多进程pipe.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/多进程pipe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多进程queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/多进程queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多进程queue.py.bak" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/多进程queue.py.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多进程实践.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/多进程实践.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对参数不确定的函数进行装饰.py" beforeDir="false" afterPath="$PROJECT_DIR$/装饰器/对参数不确定的函数进行装饰.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/对带参数的函数进行装饰.py" beforeDir="false" afterPath="$PROJECT_DIR$/装饰器/对带参数的函数进行装饰.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕快照 2019-05-29 下午3.54.14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕快照 2019-05-31 下午1.04.31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕快照 2019-05-31 下午1.25.38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕快照 2019-05-31 下午4.55.04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕快照 2019-06-01 上午11.23.37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/屏幕快照 2019-06-01 上午11.24.07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/工程师学院宁波分院硕士研究生读书报告的相关规定(2018).doc" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/工程师学院宁波分院硕士研究生读书报告的相关规定(2018).doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/抖音数据分析画图.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试接口.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试数据处理.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/消息读写/abnormal_module_test/accurate_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/消息读写/abnormal_module_test/accurate_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/矩阵计算.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法模型评估方法.docx" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/算法模型评估方法.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/织云数据格式.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/装饰器/装饰器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/装饰器练习学习.py" beforeDir="false" afterPath="$PROJECT_DIR$/装饰器/装饰器练习学习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告-组长姓名-组员学号-组员姓名-第x次-标题.docx" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告-组长姓名-组员学号-组员姓名-第x次-标题.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告-组长黄闯-21860451-黄闯-第一次-异常检测算法之孤立森林.docx" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告-组长黄闯-21860451-黄闯-第一次-异常检测算法之孤立森林.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告-组长黄闯-21860451-黄闯-第三次-算法模型评估.docx" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告-组长黄闯-21860451-黄闯-第三次-算法模型评估.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告-组长黄闯-21860451-黄闯-第二次-MVC架构分布研究综述.docx" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告-组长黄闯-21860451-黄闯-第二次-MVC架构分布研究综述.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告-组长黄闯-21860451-黄闯-第二次循环网络之长短期记忆网络.docx" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告-组长黄闯-21860451-黄闯-第二次循环网络之长短期记忆网络.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告-组长黄闯-21860451-黄闯-第四次-异常检测算法之孤立森林.docx" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告-组长黄闯-21860451-黄闯-第四次-异常检测算法之孤立森林.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告记录单-黄闯-第1次.doc" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告记录单-黄闯-第1次.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告记录单-黄闯-第2次.doc" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告记录单-黄闯-第2次.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/读书报告记录单-黄闯-第3次.doc" beforeDir="false" afterPath="$PROJECT_DIR$/读书笔记文档/读书报告记录单-黄闯-第3次.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/进程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/进程池.py.bak" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/进程池.py.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/进程池异步调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/协程与进程和线程/进程池异步调用.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,95 +309,84 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interval_time_abnormal_influence.py">
+        <entry file="file://$PROJECT_DIR$/容器/双端队列.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log-handle.py">
+        <entry file="file://$PROJECT_DIR$/面向对象/doctest学习.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logsys/log20190621.py">
+        <entry file="file://$PROJECT_DIR$/机器学习算法/fpgrowth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="405">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logsys/20190621setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logsys/logging.log">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logsys/logging.conf">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="165">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logsys/20190621.log">
+        <entry file="file:///usr/local/lib/python3.7/site-packages/pyfpgrowth/pyfpgrowth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+            <state relative-caret-position="3825">
+              <caret line="255" column="4" selection-start-line="255" selection-start-column="4" selection-end-line="255" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log_config.py">
+        <entry file="file://$PROJECT_DIR$/面向对象/python自省.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log_traceback.py">
+        <entry file="file:///usr/local/lib/python3.7/site-packages/pandas/core/frame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="81045">
+              <caret line="5493" column="16" selection-start-line="5493" selection-start-column="16" selection-end-line="5493" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/协程/httprquest.py">
+        <entry file="file:///usr/local/lib/python3.7/site-packages/pandas/core/reshape/tile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="90">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.7/site-packages/pandas/core/generic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132705">
+              <caret line="8904" column="24" selection-start-line="8904" selection-start-column="24" selection-end-line="8904" selection-end-column="24" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#30#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,11 +397,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="HTML File" />
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>transform</find>
+      <find>rolling</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -130,22 +415,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/echart.html" />
-        <option value="$PROJECT_DIR$/装饰器.py" />
-        <option value="$PROJECT_DIR$/class装饰器.py" />
-        <option value="$PROJECT_DIR$/装饰器练习学习.py" />
-        <option value="$PROJECT_DIR$/对带参数的函数进行装饰.py" />
-        <option value="$PROJECT_DIR$/对参数不确定的函数进行装饰.py" />
-        <option value="$PROJECT_DIR$/*arg.py" />
-        <option value="$PROJECT_DIR$/**kwargs.py" />
-        <option value="$PROJECT_DIR$/socket客户端.py" />
-        <option value="$PROJECT_DIR$/socket.py" />
-        <option value="$PROJECT_DIR$/socketsv.py" />
-        <option value="$PROJECT_DIR$/socketcl.py" />
-        <option value="$PROJECT_DIR$/ospath.py" />
-        <option value="$PROJECT_DIR$/ospath.ipynb" />
-        <option value="$PROJECT_DIR$/多进程pipe.py" />
-        <option value="$PROJECT_DIR$/多进程queue.py" />
         <option value="$PROJECT_DIR$/进程池异步调用.py" />
         <option value="$PROJECT_DIR$/logging.py" />
         <option value="$PROJECT_DIR$/log.py" />
@@ -176,12 +445,34 @@
         <option value="$PROJECT_DIR$/logsys/log20190621.py" />
         <option value="$PROJECT_DIR$/logsys/logging.conf" />
         <option value="$PROJECT_DIR$/logsys/20190621setup.py" />
+        <option value="$PROJECT_DIR$/class_study/__str__.py" />
+        <option value="$PROJECT_DIR$/class_study/静态方法.py" />
+        <option value="$PROJECT_DIR$/class_study/类方法.py" />
+        <option value="$PROJECT_DIR$/class_study/继承.py" />
+        <option value="$PROJECT_DIR$/容器/双端队列.py" />
+        <option value="$PROJECT_DIR$/基本数据结构/集合.py" />
+        <option value="$PROJECT_DIR$/算法/快排实现.py" />
+        <option value="$PROJECT_DIR$/面向对象/类变量与实例变量.py" />
+        <option value="$PROJECT_DIR$/面向对象/python自省.py" />
+        <option value="$PROJECT_DIR$/sorts/quick_sort.py" />
+        <option value="$PROJECT_DIR$/sorts/bubble_sort.py" />
+        <option value="$PROJECT_DIR$/sorts/counting_sort.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/pycharm/docrunner.py" />
+        <option value="$PROJECT_DIR$/面向对象/doctest学习.py" />
+        <option value="$PROJECT_DIR$/sorts/comb_sort.py" />
+        <option value="$PROJECT_DIR$/容器/Counts_use.py" />
+        <option value="$PROJECT_DIR$/编码规范/编码规范.py" />
+        <option value="$PROJECT_DIR$/tensorflow111/LSTM.py" />
+        <option value="$PROJECT_DIR$/tensorflow111/LSTM1.py" />
+        <option value="$PROJECT_DIR$/pandas/聚合分组.ipynb" />
+        <option value="$PROJECT_DIR$/机器学习算法/fpgrowth.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="31" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1372" />
     <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -190,22 +481,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="logsys" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="route_leran" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-learning" type="b2602c69:ProjectViewProjectNode" />
@@ -220,7 +502,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,10 +509,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/logsys" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -254,21 +535,87 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.20190621setup">
-    <configuration name="20190621setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
+  <component name="RunManager" selected="Python.fpgrowth">
+    <configuration name="编码规范" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logsys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/编码规范" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logsys/20190621setup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/编码规范/编码规范.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Counts_use" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/容器/Counts_use.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Find_Max" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maths" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maths/Find_Max.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LSTM1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow111" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow111/LSTM1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,7 +625,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="untitled" />
+      <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -291,6 +638,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="双端队列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/容器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/容器/双端队列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="类方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_study/类方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="继承" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_study/继承.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -409,86 +822,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="deque" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
+    <configuration name="fpgrowth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deque.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="log20190621" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logsys" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logsys/log20190621.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testtime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testtime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习算法/fpgrowth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -499,19 +846,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.deque" />
-      <item itemvalue="Python.testtime" />
-      <item itemvalue="Python.redis" />
-      <item itemvalue="Python.log20190621" />
-      <item itemvalue="Python.20190621setup" />
+      <item itemvalue="Python.Find_Max" />
+      <item itemvalue="Python.Counts_use" />
+      <item itemvalue="Python.编码规范" />
+      <item itemvalue="Python.LSTM1" />
+      <item itemvalue="Python.fpgrowth" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.20190621setup" />
-        <item itemvalue="Python.log20190621" />
-        <item itemvalue="Python.redis" />
-        <item itemvalue="Python.testtime" />
-        <item itemvalue="Python.deque" />
+        <item itemvalue="Python.fpgrowth" />
+        <item itemvalue="Python.LSTM1" />
+        <item itemvalue="Python.编码规范" />
+        <item itemvalue="Python.Counts_use" />
+        <item itemvalue="Python.Find_Max" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +891,13 @@
       <workItem from="1560302363368" duration="2034000" />
       <workItem from="1560308796685" duration="67000" />
       <workItem from="1560308885644" duration="2298000" />
-      <workItem from="1561099988093" duration="1856000" />
+      <workItem from="1561099988093" duration="4515000" />
+      <workItem from="1561624968717" duration="687000" />
+      <workItem from="1562290511527" duration="6039000" />
+      <workItem from="1562662172840" duration="1531000" />
+      <workItem from="1562813843491" duration="843000" />
+      <workItem from="1563154576947" duration="3864000" />
+      <workItem from="1563244076059" duration="364000" />
     </task>
     <task id="LOCAL-00001" summary="点点滴滴、">
       <created>1558401988356</created>
@@ -556,8 +909,40 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_counting_sort - 2019.07.05 at 14h 13m 48s.xml">
+      <configuration name="Doctests in counting_sort" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_counting_sort - 2019.07.05 at 14h 14m 19s.xml">
+      <configuration name="Doctests in counting_sort" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_add - 2019.07.05 at 14h 18m 12s.xml">
+      <configuration name="Doctest add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_add - 2019.07.05 at 14h 18m 34s.xml">
+      <configuration name="Doctest add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_add - 2019.07.05 at 14h 19m 25s.xml">
+      <configuration name="Doctest add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_add - 2019.07.05 at 14h 20m 02s.xml">
+      <configuration name="Doctest add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_add - 2019.07.05 at 14h 20m 28s.xml">
+      <configuration name="Doctest add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_add - 2019.07.05 at 14h 20m 42s.xml">
+      <configuration name="Doctest add" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_comb_sort - 2019.07.05 at 14h 22m 44s.xml">
+      <configuration name="Doctest comb_sort" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_comb_sort - 2019.07.05 at 14h 22m 54s.xml">
+      <configuration name="Doctest comb_sort" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35718000" />
+    <option name="totallyTimeSpent" value="51705000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,15 +954,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23462088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26436782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19156626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37228915" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -586,14 +970,15 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32771084" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
-      <window_info anchor="bottom" id="Jupyter" order="13" weight="0.47228914" />
+      <window_info anchor="bottom" id="Jupyter" order="13" weight="0.097590365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="aiXcoder" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,19 +993,31 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_learning$log20190621.coverage" NAME="log20190621 Coverage Results" MODIFIED="1561100715789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logsys" />
+    <SUITE FILE_PATH="coverage/python_learning$Counts_use.coverage" NAME="Counts_use Coverage Results" MODIFIED="1562308437075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/容器" />
     <SUITE FILE_PATH="coverage/python_learning$httprquest.coverage" NAME="httprquest Coverage Results" MODIFIED="1559115798091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/协程" />
+    <SUITE FILE_PATH="coverage/python_learning$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1562306187493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorts" />
+    <SUITE FILE_PATH="coverage/python_learning$__str__.coverage" NAME="__str__ Coverage Results" MODIFIED="1561102939919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_study" />
+    <SUITE FILE_PATH="coverage/python_learning$.coverage" NAME="编码规范 Coverage Results" MODIFIED="1562469856768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/编码规范" />
+    <SUITE FILE_PATH="coverage/python_learning$Doctest_add.coverage" NAME="Doctest add Coverage Results" MODIFIED="1562307642233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象" />
+    <SUITE FILE_PATH="coverage/python_learning$pipe.coverage" NAME="多进程pipe Coverage Results" MODIFIED="1559100018165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$redis.coverage" NAME="redis Coverage Results" MODIFIED="1560308453822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$log_handle.coverage" NAME="log-handle Coverage Results" MODIFIED="1559112855228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$python.coverage" NAME="python自省 Coverage Results" MODIFIED="1562293826040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象" />
+    <SUITE FILE_PATH="coverage/python_learning$Doctests_in_quick_sort.coverage" NAME="Doctests in quick_sort Coverage Results" MODIFIED="1562306005538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorts" />
+    <SUITE FILE_PATH="coverage/python_learning$Doctest_bubble_sort.coverage" NAME="Doctest bubble_sort Coverage Results" MODIFIED="1562306550522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorts" />
+    <SUITE FILE_PATH="coverage/python_learning$Doctest_comb_sort.coverage" NAME="Doctest comb_sort Coverage Results" MODIFIED="1562307773903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorts" />
     <SUITE FILE_PATH="coverage/python_learning$testtime.coverage" NAME="testtime Coverage Results" MODIFIED="1559296544987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$handle1.coverage" NAME="handle1 Coverage Results" MODIFIED="1559113049676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$.coverage" NAME="进程池 Coverage Results" MODIFIED="1559118013828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$.coverage" NAME="对参数不确定的函数进行装饰 Coverage Results" MODIFIED="1558400684181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$queue.coverage" NAME="多进程queue Coverage Results" MODIFIED="1559100279275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$log_traceback.coverage" NAME="log_traceback Coverage Results" MODIFIED="1559113575396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$fpgrowth.coverage" NAME="fpgrowth Coverage Results" MODIFIED="1563241623211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习算法" />
     <SUITE FILE_PATH="coverage/untitled$class.coverage" NAME="class装饰器 Coverage Results" MODIFIED="1558345668424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$pipe.coverage" NAME="多进程pipe Coverage Results" MODIFIED="1559100018165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$redis.coverage" NAME="redis Coverage Results" MODIFIED="1560308453822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1562306940571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorts" />
     <SUITE FILE_PATH="coverage/untitled$log.coverage" NAME="log Coverage Results" MODIFIED="1558345041924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$__kwargs.coverage" NAME="**kwargs Coverage Results" MODIFIED="1558400997143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$log_handle.coverage" NAME="log-handle Coverage Results" MODIFIED="1559112855228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Find_Max.coverage" NAME="Find_Max Coverage Results" MODIFIED="1562307925085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/maths" />
+    <SUITE FILE_PATH="coverage/python_learning$LSTM1.coverage" NAME="LSTM1 Coverage Results" MODIFIED="1562662806530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow111" />
     <SUITE FILE_PATH="coverage/python_learning$socketsv.coverage" NAME="socketsv Coverage Results" MODIFIED="1559098329480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$20190621setup.coverage" NAME="20190621setup Coverage Results" MODIFIED="1561102291869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logsys" />
     <SUITE FILE_PATH="coverage/python_learning$logging.coverage" NAME="logging Coverage Results" MODIFIED="1559112584584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -628,331 +1025,50 @@
     <SUITE FILE_PATH="coverage/python_learning$deque.coverage" NAME="deque Coverage Results" MODIFIED="1559118909159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1559114063380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logsys" />
     <SUITE FILE_PATH="coverage/python_learning$online.coverage" NAME="多进程online Coverage Results" MODIFIED="1559102297622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Doctest_quick_sort.coverage" NAME="Doctest quick_sort Coverage Results" MODIFIED="1562305950920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorts" />
+    <SUITE FILE_PATH="coverage/python_learning$Doctests_in_counting_sort.coverage" NAME="Doctests in counting_sort Coverage Results" MODIFIED="1562307259599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorts" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ospath.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/抖音数据分析画图.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/测试数据处理.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/**kwargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="203" selection-start-line="203" selection-end-line="203" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="355" column="8" selection-start-line="355" selection-start-column="8" selection-end-line="355" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.py">
+    <entry file="file://$PROJECT_DIR$/class_study/继承.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149774" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="72" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="10" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/handle1.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/handle1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/debug.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/config.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/error.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多进程queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding>
-            <element signature="e#15#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python-kafka消费者.ipynb">
+    <entry file="file://$PROJECT_DIR$/abnormal_roc_curve.py" />
+    <entry file="file://$PROJECT_DIR$/python ssh 实现代码.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/协程/定义一个协程.py">
+    <entry file="file://$PROJECT_DIR$/算法/快排实现.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/协程/多进程，协程，单进程对比.py">
+    <entry file="file://$PROJECT_DIR$/class_study/类方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" column="19" selection-start-line="4" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="520">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多进程pipe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testtime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多进程online.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/route_leran/huangchuang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/route_leran/learn_route.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abnormal_roc_curve.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程池.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/进程池异步调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aiops_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="2" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/协程/多进程测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/协程/httprquest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/handle.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interval_time_abnormal_influence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log_traceback.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log-handle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/20190621.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/log20190621.py">
+    <entry file="file://$PROJECT_DIR$/class_study/静态方法.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/class_study/__str__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class装饰器.py" />
     <entry file="file://$PROJECT_DIR$/logsys/20190621setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -963,13 +1079,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/logging.log">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/docrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4784">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sorts/counting_sort.py" />
+    <entry file="file://$PROJECT_DIR$/sorts/comb_sort.py" />
+    <entry file="file://$PROJECT_DIR$/sorts/bubble_sort.py" />
+    <entry file="file://$PROJECT_DIR$/sorts/quick_sort.py" />
+    <entry file="file://$PROJECT_DIR$/matrix/searching_in_sorted_matrix.py" />
+    <entry file="file://$PROJECT_DIR$/matrix/spiralPrint.py" />
+    <entry file="file://$PROJECT_DIR$/maths/3n+1.py" />
+    <entry file="file://$PROJECT_DIR$/maths/abs.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1149">
+          <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/编码规范/编码规范.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_euler/problem_01/sol3.py" />
+    <entry file="file://$PROJECT_DIR$/project_euler/problem_01/sol1.py" />
+    <entry file="file://$PROJECT_DIR$/other/finding_Primes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/logsys/logging.conf">
+    <entry file="file://$PROJECT_DIR$/other/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/n_queens.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maths/Find_Max.py" />
+    <entry file="file://$PROJECT_DIR$/maths/find_lcm.py" />
+    <entry file="file://$PROJECT_DIR$/maths/average.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow111/LSTM1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matrix/matrix_operation.py" />
+    <entry file="file://$PROJECT_DIR$/容器/Counts_use.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/聚合分组.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aiops_test.py" />
+    <entry file="file://$PROJECT_DIR$/aroma.ipynb" />
+    <entry file="file://$PROJECT_DIR$/面向对象/类变量与实例变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/容器/双端队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象/doctest学习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/pyfpgrowth/pyfpgrowth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="255" column="4" selection-start-line="255" selection-start-column="4" selection-end-line="255" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象/python自省.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81045">
+          <caret line="5493" column="16" selection-start-line="5493" selection-start-column="16" selection-end-line="5493" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/pandas/core/reshape/tile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132705">
+          <caret line="8904" column="24" selection-start-line="8904" selection-start-column="24" selection-end-line="8904" selection-end-column="24" />
+          <folding>
+            <element signature="e#30#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试数据处理.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/矩阵计算.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testtime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonenummerate.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/两台主机传输文件.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python试验田.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习算法/fpgrowth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
