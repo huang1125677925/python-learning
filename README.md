@@ -22,6 +22,7 @@ List、dict、set、tuple
 
 Counter、Deque、
 
+[相关资料整理](./基本数据类型及容器/README.md)
 
 ## 基础知识
 
