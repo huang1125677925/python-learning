@@ -5,9 +5,7 @@
 # IntelliJ project files
 .idea
 *.iml
-out
-gen
 
 
-/route_leran/
 /.ipynb_checkpoints/
+/.DS_Store/
