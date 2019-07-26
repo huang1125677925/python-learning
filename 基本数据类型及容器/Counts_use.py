@@ -5,4 +5,4 @@ s = 'huangchuanghuanghuang'
 
 s = list(s)
 
-print(Counter(s))
+r=Counter(s)
