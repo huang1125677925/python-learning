@@ -1,7 +1,7 @@
 from collections import Counter
 
 
-s = 'huangchuanghuanghuang'
+s = 'huangchuanghuanghuangckk'
 
 s = list(s)
 
@@ -17,5 +17,21 @@ colours = (
     ('Ahmed', 'Silver'),
 )
 
-favs = Counter(name for name, colour in colours)
-print(favs)
+favs = Counter(s)
+d=dict(sorted(favs.items(),key=lambda x:(-x[1],x[0])))
+print(d)
+
+print(sorted(['l','c']))
+
+
+class Solution:
+    def maxProduct(self, nums) -> int:
+        dp = [0] * len(nums)
+        dp[0] = nums[0]
+        for i in range(1, len(nums) ):
+            dp[i] = max([dp[i - 1] * nums[i], nums[i], nums[i] * nums[i - 1]])
+        
+        return max(dp)
+ 
+print(Solution().maxProduct([-2,3,-4]))
+

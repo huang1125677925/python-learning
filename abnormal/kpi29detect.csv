@@ -1,0 +1,113 @@
+,index,methods,Length
+0,9219,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+1,13396,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+2,18242,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+3,23778,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+4,23780,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+5,24269,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+6,25601,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+7,27107,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+8,32620,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+9,33022,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+10,33079,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+11,35554,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+12,45914,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+13,45955,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+14,45957,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+15,45974,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+16,45979,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+17,45981,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+18,45983,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+19,45988,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+20,46001,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+21,46008,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+22,46011,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+23,46025,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+24,46052,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+25,46787,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+26,46948,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+27,52566,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+28,54626,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+29,54690,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+30,54703,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+31,54716,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+32,54728,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+33,54752,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+34,54753,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+35,56903,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+36,62534,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+37,63867,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+38,68074,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+39,68838,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+40,72183,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+41,72648,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+42,73032,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+43,73078,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+44,73107,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+45,73121,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+46,73184,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+47,73961,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+48,78630,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+49,79235,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+50,79236,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+51,79245,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+52,79462,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+53,79562,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+54,86390,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+55,90612,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+56,93372,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+57,94290,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+58,94376,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+59,97415,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+60,97521,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+61,98721,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+62,102235,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+63,103595,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+64,112442,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+65,112532,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+66,113067,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+67,114472,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+68,115848,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+69,121425,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+70,122013,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+71,122126,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+72,122158,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+73,122161,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+74,122165,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+75,122206,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+76,122216,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+77,122271,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+78,122292,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+79,125630,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+80,125940,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+81,125975,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+82,125989,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+83,126000,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+84,126036,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+85,126050,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+86,132002,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+87,132578,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+88,133981,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+89,135263,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+90,140593,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+91,140594,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+92,140595,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+93,140596,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+94,140597,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+95,140611,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+96,140612,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+97,140613,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+98,140614,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+99,140615,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+100,140616,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+101,140617,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+102,140618,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+103,140620,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+104,140621,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+105,141323,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+106,141324,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+107,142727,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+108,142781,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+109,143519,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+110,144026,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3
+111,144517,"['xigema_check', 'amplitude_check_method', 'dynamic_threshold']",3

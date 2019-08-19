@@ -1,0 +1,893 @@
+,index,methods,Length
+0,10102,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+1,10665,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+2,10666,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+3,10959,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+4,10966,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+5,10970,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+6,10998,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+7,11341,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+8,11347,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+9,12182,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+10,12188,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+11,12221,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+12,12222,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+13,12234,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+14,12235,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+15,12245,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+16,12246,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+17,12262,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+18,12297,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+19,12298,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+20,12306,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+21,13642,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+22,13643,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+23,13822,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+24,13882,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+25,14002,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+26,14062,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+27,14182,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+28,14256,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+29,14362,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+30,14482,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+31,14962,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+32,15381,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+33,15386,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+34,15397,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+35,15411,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+36,15412,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+37,15413,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+38,15427,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+39,15428,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+40,15435,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+41,15440,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+42,15451,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+43,15860,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+44,16460,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+45,16483,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+46,16484,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+47,16485,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+48,16486,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+49,16496,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+50,16497,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+51,16498,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+52,16502,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+53,16528,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+54,16700,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+55,16940,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+56,17060,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+57,17120,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+58,17869,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+59,17984,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+60,20690,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+61,20698,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+62,21479,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+63,21931,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+64,21932,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+65,22125,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+66,22131,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+67,22166,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+68,23180,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+69,23926,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+70,23927,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+71,25221,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+72,25222,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+73,25240,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+74,25241,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+75,25284,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+76,25289,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+77,25985,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+78,26261,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+79,26262,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+80,26263,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+81,26264,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+82,26268,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+83,26284,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+84,26347,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+85,26348,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+86,26349,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+87,26350,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+88,26368,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+89,27402,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+90,27403,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+91,27967,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+92,27970,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+93,27971,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+94,27972,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+95,30376,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+96,30536,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+97,30542,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+98,30553,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+99,30662,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+100,30686,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+101,30739,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+102,30740,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+103,30741,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+104,30742,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+105,30773,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+106,30774,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+107,30887,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+108,32571,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+109,32588,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+110,32999,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+111,33885,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+112,33984,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+113,33985,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+114,34747,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+115,34760,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+116,34761,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+117,34771,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+118,34772,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+119,34966,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+120,35118,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+121,35119,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+122,35120,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+123,35137,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+124,35138,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+125,35139,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+126,35145,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+127,35159,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+128,35160,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+129,35184,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+130,35187,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+131,35192,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+132,35193,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+133,35212,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+134,35235,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+135,35236,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+136,35250,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+137,35266,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+138,35277,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+139,35278,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+140,35806,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+141,36087,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+142,36088,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+143,36089,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+144,36092,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+145,36093,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+146,36094,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+147,36117,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+148,36247,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+149,36248,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+150,36249,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+151,36250,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+152,36251,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+153,36281,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+154,36282,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+155,36977,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+156,38647,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+157,39685,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+158,39847,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+159,39972,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+160,40452,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+161,41145,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+162,41282,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+163,41412,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+164,41587,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+165,41617,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+166,41622,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+167,41629,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+168,41986,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+169,42600,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+170,42639,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+171,43046,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+172,43055,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+173,43061,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+174,43210,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+175,43390,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+176,43395,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+177,43432,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+178,43433,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+179,43475,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+180,43499,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+181,43534,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+182,43583,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+183,43584,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+184,43585,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+185,43595,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+186,43604,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+187,43605,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+188,43606,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+189,43620,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+190,43626,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+191,43627,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+192,43628,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+193,43715,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+194,43720,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+195,43755,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+196,43865,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+197,43945,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+198,43995,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+199,44080,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+200,44145,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+201,44236,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+202,44532,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+203,44536,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+204,44537,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+205,44548,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+206,44549,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+207,44673,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+208,44682,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+209,44684,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+210,44688,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+211,44695,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+212,44705,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+213,44711,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+214,44778,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+215,44779,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+216,44780,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+217,44787,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+218,44788,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+219,44804,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+220,44805,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+221,44818,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+222,44819,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+223,44841,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+224,44842,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+225,44851,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+226,44852,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+227,44853,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+228,44854,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+229,44860,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+230,44861,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+231,44873,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+232,44874,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+233,45884,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+234,45888,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+235,45889,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+236,45928,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+237,45933,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+238,47040,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+239,47041,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+240,47045,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+241,47046,"['xigema_check', 'seven_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+242,47047,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+243,47048,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+244,47049,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+245,47051,"['xigema_check', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+246,47056,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+247,47063,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+248,47070,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+249,47071,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+250,47072,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+251,47086,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+252,47087,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+253,47096,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+254,47097,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+255,47098,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+256,47099,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+257,48341,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+258,48363,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+259,48370,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+260,48371,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+261,48516,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+262,48542,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+263,48576,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+264,48577,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+265,48578,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+266,48579,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+267,48580,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+268,48584,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+269,48606,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+270,48607,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+271,49521,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+272,49871,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+273,49876,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+274,49894,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+275,50165,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+276,50167,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+277,50174,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+278,50176,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+279,50182,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+280,50195,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+281,50223,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+282,50428,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+283,50429,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+284,50430,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+285,50469,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+286,50470,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+287,51013,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+288,51730,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+289,51731,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+290,51735,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+291,51736,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+292,51768,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+293,51769,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+294,51790,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+295,51791,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+296,51792,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+297,51793,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+298,51890,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+299,51891,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+300,52975,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+301,52978,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+302,52979,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+303,53091,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+304,53092,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+305,53093,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+306,53106,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+307,53107,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+308,53118,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+309,53119,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+310,53127,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+311,53128,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+312,53129,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+313,53137,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+314,53155,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+315,53156,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+316,53157,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+317,53158,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+318,53165,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+319,53166,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+320,53201,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+321,53202,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+322,53203,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+323,53220,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+324,54235,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+325,54239,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+326,54242,"['xigema_check', 'seven_check_method', 'amplitude_check_method']",3
+327,54243,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+328,54430,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+329,54441,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+330,54457,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+331,54460,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+332,54465,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+333,54466,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+334,54930,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+335,54970,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+336,55016,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+337,55124,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+338,55306,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+339,55381,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+340,55947,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+341,55949,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+342,55951,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+343,55954,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+344,56072,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+345,56606,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+346,56808,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+347,56928,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+348,57614,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+349,57778,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+350,58204,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+351,58478,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+352,58481,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+353,58482,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+354,58486,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+355,58491,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+356,58522,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+357,58627,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+358,58629,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+359,58631,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+360,58653,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+361,59168,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+362,59530,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+363,59841,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+364,59941,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+365,59945,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+366,59954,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+367,60528,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+368,60529,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+369,60556,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+370,60557,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+371,60591,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+372,60592,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+373,60634,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+374,60913,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+375,61180,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+376,61563,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+377,61564,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+378,61687,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+379,61787,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+380,61788,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+381,61806,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+382,61817,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+383,61818,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+384,61834,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+385,61835,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+386,61851,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+387,61852,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+388,61887,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+389,61888,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+390,61911,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+391,61912,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+392,62227,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+393,62832,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+394,62834,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+395,62837,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+396,62848,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+397,63028,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+398,63041,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+399,63049,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+400,63056,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+401,63062,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+402,63064,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+403,63092,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+404,63163,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+405,63164,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+406,63165,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+407,63189,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+408,63190,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+409,63191,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+410,63198,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+411,63199,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+412,63200,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+413,63207,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+414,63210,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+415,63211,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+416,63232,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+417,63233,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+418,63254,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+419,63255,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+420,63259,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+421,63290,"['xigema_check', 'seven_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+422,63291,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+423,63292,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+424,63302,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+425,63303,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+426,63591,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+427,64021,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+428,64206,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+429,64211,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+430,64240,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+431,64312,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+432,64316,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+433,64317,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+434,64328,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+435,65993,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+436,65995,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+437,65996,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+438,65997,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+439,67503,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+440,67707,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+441,67708,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+442,67709,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+443,67710,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+444,67711,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+445,67712,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+446,67713,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+447,67714,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+448,67717,"['xigema_check', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+449,68451,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+450,68454,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+451,68456,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+452,68458,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+453,68466,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+454,68467,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+455,68496,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+456,68520,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+457,68522,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+458,68523,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+459,68928,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+460,68982,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+461,68983,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+462,69367,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+463,69489,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+464,69503,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+465,69899,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+466,69900,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+467,69901,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+468,69903,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+469,69904,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+470,69905,"['xigema_check', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+471,69906,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+472,69907,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+473,69908,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+474,70435,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+475,70465,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+476,70466,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+477,70467,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+478,71782,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+479,71783,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+480,71792,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+481,71805,"['xigema_check', 'seven_check_method', 'amplitude_check_method']",3
+482,71927,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+483,71928,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+484,71959,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+485,71960,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+486,71963,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+487,71964,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+488,71994,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+489,71995,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+490,72014,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+491,72027,"['xigema_check', 'seven_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+492,72028,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+493,72029,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+494,72098,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+495,72099,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+496,72478,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+497,72851,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+498,72887,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+499,72958,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+500,72959,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+501,73033,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+502,73034,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+503,73092,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+504,73098,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+505,73101,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+506,73106,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+507,73107,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+508,73111,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+509,73241,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+510,73242,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+511,73243,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+512,73253,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+513,73255,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+514,73256,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+515,73257,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+516,73273,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+517,73274,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+518,73281,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+519,73282,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+520,73283,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+521,73298,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+522,73299,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+523,73319,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+524,73320,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+525,73321,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+526,73322,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+527,73329,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+528,73330,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+529,73331,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+530,73332,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+531,73341,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+532,73342,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+533,73344,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+534,73429,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+535,73519,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+536,73520,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+537,73521,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+538,73523,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+539,73524,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+540,73525,"['xigema_check', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+541,74200,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+542,74301,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+543,74306,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+544,74307,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+545,74308,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+546,74320,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+547,74328,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+548,74339,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+549,74350,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+550,77027,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+551,77028,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+552,77030,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+553,77031,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+554,77032,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+555,77073,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+556,77074,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+557,78715,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+558,78755,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+559,78893,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+560,78920,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+561,78927,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+562,78933,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+563,78943,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+564,80027,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+565,80032,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+566,80055,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+567,80705,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+568,81749,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+569,81750,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+570,81774,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+571,81775,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+572,81791,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+573,81792,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+574,83019,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+575,83023,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+576,83024,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+577,83037,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+578,83083,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+579,83087,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+580,83088,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+581,83092,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+582,83144,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+583,83152,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+584,83158,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+585,83159,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+586,83165,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+587,83166,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+588,83174,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+589,83176,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+590,83177,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+591,83183,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+592,83317,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+593,83318,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+594,83328,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+595,83329,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+596,83330,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+597,83331,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+598,83332,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+599,83339,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+600,83340,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+601,83341,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+602,83342,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+603,83354,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+604,83355,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+605,88647,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+606,88650,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+607,88653,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+608,88654,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+609,88686,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+610,88962,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+611,88972,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+612,89456,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+613,90128,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+614,90129,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+615,91957,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+616,91958,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+617,91992,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+618,92056,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+619,92057,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+620,92151,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+621,92154,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+622,92155,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+623,92235,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+624,92236,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+625,92776,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+626,93084,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+627,93091,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+628,93095,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+629,93096,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+630,93097,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+631,93114,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+632,93152,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+633,93155,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+634,93156,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+635,93170,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+636,93171,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+637,93187,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+638,93188,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+639,93230,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+640,93243,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+641,93257,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+642,93260,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+643,93278,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+644,93397,"['xigema_check', 'seven_check_method', 'dynamic_threshold']",3
+645,93398,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+646,93399,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+647,93408,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+648,93409,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+649,93412,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+650,93413,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+651,93414,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+652,93416,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+653,93421,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+654,93445,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+655,93446,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+656,93498,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method']",3
+657,95199,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+658,95200,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+659,95201,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+660,95202,"['xigema_check', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+661,95203,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+662,95204,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+663,95205,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+664,96187,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+665,96891,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+666,98454,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+667,98461,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+668,98464,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+669,98501,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+670,98869,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+671,98923,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+672,99039,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+673,99040,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+674,99052,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+675,99056,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+676,99057,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+677,99071,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+678,99082,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+679,99107,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+680,99423,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+681,99424,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+682,99431,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+683,99814,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+684,99819,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+685,99820,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+686,99851,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+687,99906,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method']",3
+688,99907,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method']",4
+689,99908,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+690,99909,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+691,99929,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+692,99930,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+693,99931,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+694,99933,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+695,99934,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+696,99935,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+697,100179,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+698,100180,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+699,100674,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+700,101288,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+701,101322,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+702,101327,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+703,101328,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+704,101329,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+705,101331,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+706,101855,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+707,102024,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+708,102025,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+709,102028,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+710,102072,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+711,102073,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+712,102107,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+713,102108,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+714,102230,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+715,103100,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+716,103101,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+717,103105,"['xigema_check', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+718,103106,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+719,103107,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+720,103108,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+721,103109,"['sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",3
+722,103311,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+723,103313,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+724,103317,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+725,103320,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+726,103331,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+727,103338,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+728,103342,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+729,103343,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+730,103471,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+731,103472,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+732,103473,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+733,103481,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+734,103482,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+735,103483,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+736,103484,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+737,103502,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+738,103503,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+739,103510,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+740,103518,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+741,103528,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+742,103529,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+743,103581,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+744,103699,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+745,103939,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+746,104435,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+747,104436,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+748,104443,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+749,104481,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+750,104551,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+751,104558,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+752,104559,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+753,105206,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+754,108779,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+755,108781,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+756,108784,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+757,108825,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method']",3
+758,110259,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+759,110263,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+760,111693,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+761,111719,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+762,111720,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+763,112057,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+764,112825,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+765,113203,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+766,113213,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+767,113331,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+768,113336,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+769,113338,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+770,113349,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+771,113350,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+772,113540,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+773,113541,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+774,113553,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+775,113554,"['seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",4
+776,113555,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+777,113567,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+778,113571,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+779,113572,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+780,113952,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+781,114098,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+782,114397,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+783,114460,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+784,114808,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+785,114816,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+786,114822,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+787,114830,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+788,114843,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+789,114847,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+790,114863,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+791,114870,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+792,116870,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+793,116933,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+794,117083,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+795,117189,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+796,117700,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+797,117708,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+798,118158,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+799,118565,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+800,118882,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+801,118889,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+802,118890,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+803,118893,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+804,119053,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+805,119076,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+806,119342,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+807,119343,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+808,119345,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+809,119375,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+810,119376,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+811,119377,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+812,119395,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+813,119396,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+814,120106,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+815,120107,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+816,120319,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+817,120320,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+818,120571,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+819,120580,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+820,120601,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+821,120604,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+822,120609,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+823,120620,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+824,120621,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+825,120993,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+826,121398,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+827,121532,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+828,121533,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+829,121559,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+830,121652,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+831,121705,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+832,121728,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+833,121753,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+834,121818,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+835,121887,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+836,121952,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+837,122367,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+838,122587,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+839,122605,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+840,122667,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+841,123040,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+842,123145,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+843,123149,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+844,123166,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+845,123379,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+846,123387,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+847,123411,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+848,123414,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+849,123415,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+850,123416,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+851,123422,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+852,123423,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+853,123448,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+854,123464,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+855,123465,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+856,123480,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+857,123495,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+858,123496,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+859,123504,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+860,123507,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+861,123511,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+862,123514,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+863,123604,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",4
+864,123605,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+865,123606,"['xigema_check', 'seven_check_method', 'sameperiod_seven_point_check_method', 'amplitude_check_method', 'dynamic_threshold']",5
+866,123607,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+867,123614,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+868,123615,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+869,123630,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+870,123631,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+871,123644,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+872,123645,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+873,123660,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+874,123682,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+875,123683,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+876,123685,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+877,124876,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+878,124877,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+879,124878,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+880,125388,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+881,125414,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+882,125511,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+883,125645,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+884,125760,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+885,125802,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+886,125893,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+887,125932,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+888,126827,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+889,126994,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+890,128193,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3
+891,128466,"['seven_check_method', 'sameperiod_seven_point_check_method', 'dynamic_threshold']",3

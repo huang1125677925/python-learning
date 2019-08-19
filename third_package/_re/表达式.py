@@ -3,18 +3,9 @@
 import re
 
 a='shopeemobile.com'
-for item in a:
-	print(re.findall(r'*.com',a))
-
-a={}
-
-a['.']=True
-
-print(a['.'])
+print(re.findall(r".*",a))
 
 
-print(type(5/3))
-print(type(6/3))
 
 # print(a[3:].index(1))
 # print(list(map(lambda x,y:y-x,a[:-1],a[1:])))
