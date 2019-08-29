@@ -23,3 +23,12 @@ class ReadData(object):
         
         return d
 
+    def read_itemid(self):
+        query_data1 = self.mycol.distinct('itemId')
+    
+        data = []
+        for x in query_data1:
+            data.append(x)
+            
+        return data
+

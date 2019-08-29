@@ -1,0 +1,51 @@
+# 准备数据
+            # 过去七天同期十分钟----包括与当前点相同的
+            # 可用于振幅检测，同期动态阈值检测，同期七点检测
+            data_mongo = data_prepare(index- 10, index, data)
+        
+            # 过去半个小时的数据------包括当前点
+            # 可用于ewa检测，过去七点检测，3西格玛检测
+            thirty_minutes_data = read_pandas(index - 30, index, data)
+            
+            # 细分为各算法所需数据
+            # 包括当前点
+            xigema_check_data = thirty_minutes_data
+            ewma_data = thirty_minutes_data
+            
+            dynamic_threshold_data = [x for item in data_mongo for x in item]
+            seven_point_data = thirty_minutes_data[-8:-1]
+            sameperiod_seven_check_data = [item[-1] if item else np.mean(data_mongo) for item in data_mongo]
+            amplitude_check_data = [item[-2:] for item in data_mongo]
+            if data_mongo == []:
+                continue
+            
+            if len(thirty_minutes_data) < 10:
+                continue
+                
+            value=data.loc[index,'value']
+            
+            # 计算数据+融合
+            methods = []
+            count = 0
+            if xigema_check_data and xigema_check(xigema_check_data):
+                count = count + 1
+                methods.append('xigema_check')
+            if ewma_data and ewma_check_method(ewma_data):
+                methods.append('ewma_check_method')
+                count = count + 1
+            if seven_point_data and seven_check_method(seven_point_data, value):
+                methods.append('seven_check_method')
+                count = count + 1
+            if sameperiod_seven_check_data and sameperiod_seven_point_check_method(sameperiod_seven_check_data, value):
+                count = count + 1
+                methods.append('sameperiod_seven_point_check_method')
+            if amplitude_check_data and amplitude_check_method(amplitude_check_data, thirty_minutes_data[-2:]):
+                count = count + 1
+                methods.append('amplitude_check_method')
+            if dynamic_threshold_data and dynamic_threshold(dynamic_threshold_data, value):
+                count = count + 1
+                methods.append('dynamic_threshold')
+            
+            if count >=3:
+                temp.append([index,methods,len(methods)])
+                print(index,methods)

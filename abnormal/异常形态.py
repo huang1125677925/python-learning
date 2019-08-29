@@ -7,20 +7,26 @@ print(data.shape)
 data.drop(['Unnamed: 0',  'KPI ID'],axis=1,inplace=True)
 print(data.head())
 
-a=list(data[data['label']==1].index)
+a=set(data[data['label']==1].index)
+a.
 
-index=[]
+print(data.index)
 
 
-for i in range(1,len(a)):
-    if a[i]-1==a[i-1]:
-        continue
-    else:
-        index.append(a[i])
-        
-        
-
-print(index)
+# a=list(data[data['label']==1].index)
+#
+# index=[]
+#
+#
+# for i in range(1,len(a)):
+#     if a[i]-1==a[i-1]:
+#         continue
+#     else:
+#         index.append(a[i])
+#
+#
+#
+# print(index)
 
 
 
