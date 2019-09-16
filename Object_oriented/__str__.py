@@ -1,6 +1,5 @@
 #__str__定义在类内部，必须返回一个字符串类型，
 #什么时候会出发它的执行呢？打印由这个类产生的对象时，会触发执行
-
 class People:
     def __init__(self,name,age):
         self.name=name

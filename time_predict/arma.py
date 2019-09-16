@@ -1,11 +1,11 @@
-from time_predict import read_data
+from time_predict import read_data1
 import matplotlib.pyplot as plt
 import pandas as pd
 from pandas import Series,DataFrame
 from datetime import datetime
 
 
-data_read=read_data.ReadData()
+data_read=read_data1.ReadData()
 
 data=data_read.read_data(1631,'13 12:00:00','13 15:00:00')
 

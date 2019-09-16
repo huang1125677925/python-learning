@@ -4,14 +4,13 @@ import matplotlib.pyplot as plt
 
 
 class ReadData(object):
-    myclient = pymongo.MongoClient('10.1.11.14:27017')
+    myclient = pymongo.MongoClient('10.1.11.14:27017',username='aiops', password='aiops')
     mydb = myclient["aiops"]
     mycol = mydb["event"]
     
     def read_data(self, id, timeup='2019-07-29 05:00:00', timedown='2019-07-29 10:00:00'):
-        timeleft = '2019-08-' + timeup
-        timeright = '2019-08-' + timedown
-        myquery = {"itemId": id, "recordTime": {'$gte': timeleft, '$lte': timeright}}
+
+        myquery = {"itemId": id, "recordTime": {'$gte': timeup, '$lte': timedown}}
         query_data1 = self.mycol.find(myquery, {'recordTime': 1, "value": 1}).sort('recordTime')
         
         data = []
@@ -29,9 +28,7 @@ class ReadData(object):
         return d
 
     def read_data_event(self, id, timeup='2019-07-29 05:00:00', timedown='2019-07-29 10:00:00'):
-        timeleft = '2019-08-' + timeup
-        timeright = '2019-08-' + timedown
-        myquery = {"itemId": id, "recordTime": {'$gte': timeleft, '$lte': timeright}}
+        myquery = {"itemId": id, "recordTime": {'$gte': timeup, '$lte': timedown}}
         query_data1 = self.mycol.find(myquery)
     
         
@@ -49,18 +46,23 @@ class ReadData(object):
         
 
         return data
+if __name__ == '__main__':
     
-d=ReadData()
-itemid=d.read_itemid()
-event_stat=[]
-for x in itemid:
-    if x!=None:
-        data=d.read_data_event(x,'17 00:00:00','21 00:00:00')
-        if data>100:
+    d=ReadData()
+    itemid=d.read_itemid()
+    print(len(itemid))
+    event_stat=[]
+    timeup='2019-09-15 00:00:00'
+    timedown='2019-09-16 00:00:00'
+    for x in itemid:
+        if x!=None:
+            data=d.read_data_event(x,timeup,timedown)
+            # if data>100:
             print(x)
-        event_stat.append([x,data])
-        
-
-event_item=pd.DataFrame(event_stat,columns=['id','event_num'])
-
-print(event_item.describe())
+            event_stat.append([x,data])
+            
+    
+    event_item=pd.DataFrame(event_stat,columns=['id','event_num'])
+    
+    print(event_item.describe())
+    event_item.to_csv('event_num_count.csv')

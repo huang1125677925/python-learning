@@ -75,5 +75,3 @@ def main(id):
             print('not abnormal')
         
 
-if __name__ == '__main__':
-    main(120)

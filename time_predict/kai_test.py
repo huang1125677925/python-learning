@@ -86,6 +86,4 @@ def main():
     print(iso.predict(data_history+data_check,indexl+l))
 
 
-if __name__ == '__main__':
-    main()
 

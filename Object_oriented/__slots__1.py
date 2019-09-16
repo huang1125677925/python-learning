@@ -6,6 +6,7 @@ https://www.liaoxuefeng.com/wiki/1016959663602400/1017501655757856
 https://zhuanlan.zhihu.com/p/25930288
 '''
 from __future__ import print_function
+from
 class MyClass(object):
   __slots__ = ['name', 'identifier']
   # def __init__(self, name, identifier):

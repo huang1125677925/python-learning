@@ -7,27 +7,17 @@ https://blog.csdn.net/google19890102/article/details/51355282
 class TimeConvert(object):
 
 	# 日期转换成时间戳
-	def date_convert_timestamp(self):
-		dt = "2016-05-05 20:28:54"
-		# 转换成时间数组
-		timeArray = time.strptime(dt, "%Y-%m-%d %H:%M:%S")
-		# 转换成时间戳
-		timestamp = time.mktime(timeArray)
-
-		return dt,timestamp
-
+	def date_convert_timestamp(self,dt):
+		return int(time.mktime(time.strptime(dt, "%Y-%m-%d %H:%M:%S")))
 
 	# 重新格式化时间
-	def convert_date_format(self):
-
-		dt = "2016-05-05 20:28:54"
-
+	def convert_date_format(self,dt):
 		# 转换成时间数组
 		timeArray = time.strptime(dt, "%Y-%m-%d %H:%M:%S")
 		# 转换成新的时间格式(20160505-20:28:54)
 		dt_new = time.strftime("%Y%m%d-%H:%M:%S", timeArray)
 
-		return dt,dt_new
+		return dt_new
 
 
 	# 时间转换成日期
@@ -57,11 +47,10 @@ class TimeConvert(object):
 
 if __name__ == '__main__':
 	time_funs=TimeConvert()
-
-	print(time_funs.timestamo_convert_date())
-	print(time_funs.fetch_now_time())
-	print(time_funs.convert_date_format())
-	print(time_funs.date_convert_timestamp())
+	a='2019-09-03 00:00:00'
+	b='2019-09-04 00:00:00'
+	print(time_funs.date_convert_timestamp(b)-time_funs.date_convert_timestamp(a))
+	
 
 
 
